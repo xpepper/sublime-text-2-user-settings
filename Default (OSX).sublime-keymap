@@ -48,13 +48,6 @@
     "command": "close_other_tabs"
   },
 
-  // go to alternate file
-  // super+ctrl+. will show spec and implementation in split view
-  {
-    "keys": ["ctrl+shift+down"],
-    "command": "open_rspec_file",
-    "args": {"option": "next"}
-  },
   // copy file name
   {
     "keys": ["super+shift+c"],
