@@ -1,31 +1,61 @@
 [
+  // ctags
+  {
+    "keys": ["ctrl+]"],
+    "command": "navigate_to_definition"
+  },
+  {
+    "keys": ["super+alt+p"],
+    "command": "rebuild_tags"
+  },
+
+  // go to line
   {
     "keys": ["super+l"],
     "command": "show_overlay",
     "args": {"overlay": "goto", "text": ":"}
   },
+
+  // go to symbol
+  {
+    "keys": ["super+y"],
+    "command": "show_overlay",
+    "args": {"overlay": "goto", "text": "@"}
+  },
+
+  // show in project drawer
   {
     "keys": ["ctrl+super+r"],
     "command": "reveal_in_side_bar"
   },
+
+  // focus on side bar
   {
     "keys": ["ctrl+shift+tab"],
     "command": "focus_side_bar"
   },
+
+  // focus back in buffer
   {
     "keys": ["ctrl+tab"],
     "command": "focus_group",
     "args": {"group": 0}
   },
+
+  // close all other tabs
   {
     "keys": ["super+alt+w"],
     "command": "close_other_tabs"
   },
+
+  // go to alternate file
+  // super+ctrl+. will show spec and implementation in split view
   {
     "keys": ["ctrl+shift+down"],
     "command": "open_rspec_file",
     "args": {"option": "next"}
   },
+  // copy file name
   {
     "keys": ["super+shift+c"],
     "command": "copy_path_to_clipboard"
@@ -37,6 +67,7 @@
     "command": "reindent",
     "args": { "single_line": false }
   },
+  // run tests
   {
     "keys": ["super+r"],
     "command": "run_tests",
