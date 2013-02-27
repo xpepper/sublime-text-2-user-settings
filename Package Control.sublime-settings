@@ -6,6 +6,7 @@
 		"CTags",
 		"DetectSyntax",
 		"Git",
+		"GitGutter",
 		"KeymapManager",
 		"Markdown Preview",
 		"Package Control",

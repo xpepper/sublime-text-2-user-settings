@@ -5,6 +5,10 @@
     "command": "navigate_to_definition"
   },
   {
+    "keys": ["ctrl+["],
+    "command": "jump_back"
+  },
+  {
     "keys": ["super+alt+p"],
     "command": "rebuild_tags"
   },
