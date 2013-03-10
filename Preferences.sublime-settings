@@ -14,21 +14,17 @@
 	],
 	"folder_exclude_patterns":
 	[
-		"data",
 		".git",
 		".svn",
 		".hg",
 		"CVS",
 		".sass-cache",
 		".bundle",
-		"bundle",
 		".rbx",
-		"bin",
-		"script",
 		"tmp"
 	],
 	"font_face": "Inconsolata-dz",
-	"font_size": 14.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
