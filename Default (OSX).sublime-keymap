@@ -20,6 +20,12 @@
     "args": {"overlay": "goto", "text": ":"}
   },
 
+  // redo
+  {
+    "keys": ["super+alt+z"],
+    "command": "redo"
+  },
+
   // go to symbol
   {
     "keys": ["super+y"],
