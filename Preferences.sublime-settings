@@ -24,7 +24,7 @@
 		"tmp"
 	],
 	"font_face": "Inconsolata-dz",
-	"font_size": 16.0,
+	"font_size": 17.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -37,7 +37,6 @@
 		"C#",
 		"AppleScript",
 		"OCaml",
-		"C++",
 		"Graphviz",
 		"Lisp",
 		"Objective-C",
@@ -47,7 +46,8 @@
 		"Go",
 		"TCL",
 		"R",
-		"Erlang"
+		"Erlang",
+		"WordHighlight"
 	],
 	"line_padding_bottom": 0.5,
 	"line_padding_top": 0.5,
