@@ -3,3 +3,4 @@
 *.last-run
 *.cache
 Package\ Control.sublime-settings
+Package Control.system-ca-bundle
