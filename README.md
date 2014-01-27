@@ -9,7 +9,7 @@ Sublime Text 2 User Settings stored in "~/Library/Application Support/Sublime Te
 * go to the packages folder
   `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages,
 * move the User folder to somewher else, then:
-  `git git@github.com:xpepper/sublime-text-2-user-settings.git User`
+  `git clone git@github.com:xpepper/sublime-text-2-user-settings.git User`
 * In User folder, open "Package Control.sublime-settings", then delete first line `auto_upgrade_last_run`
 * Update all packages. The packages will be downloaded automatically.
 * Restart Sublime Text
