@@ -1,0 +1,4 @@
+{
+  // works using the RVM auto-ruby which is the current ruby version activated by RVM
+  "ruby": "/usr/bin/env ~/.rvm/bin/rvm-auto-ruby"
+}
