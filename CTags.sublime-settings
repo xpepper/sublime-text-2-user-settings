@@ -1,0 +1,4 @@
+{
+  // Added after installing ctags with 'brew install ctags'
+  "command": "/usr/local/bin/ctags"
+}
