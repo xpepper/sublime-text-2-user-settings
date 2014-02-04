@@ -4,6 +4,7 @@
 	[
 		"All Autocomplete",
 		"BeautifyRuby",
+		"BracketHighlighter",
 		"CTags",
 		"DetectSyntax",
 		"Git",
@@ -19,6 +20,7 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"WordHighlight"
 	]
 }

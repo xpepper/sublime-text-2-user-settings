@@ -1,8 +1,12 @@
 {
   "auto_complete_commit_on_tab": false,
   "bold_folder_labels": true,
-  "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+  // "theme": "Soda Light.sublime-theme",
+  // "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+  "theme": "Spacegray.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
   "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
   "file_exclude_patterns":
   [
     ".DS_Store",
@@ -61,7 +65,7 @@
   ],
   "save_on_focus_lost": false,
   "tab_size": 2,
-  "theme": "Soda Light.sublime-theme",
   "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true
 }
