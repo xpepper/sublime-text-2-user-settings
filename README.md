@@ -1,7 +1,9 @@
 Sublime Text 2 User settings
 ============================
 
-Sublime Text 2 User Settings stored in "~/Library/Application Support/Sublime Text 2/Packages/User"
+This is my personal Sublime Text 2 configuration and plugin set.
+
+Sublime Text 2 User Settings are stored in `~/Library/Application Support/Sublime Text 2/Packages/User`
 
 #Setup#
 
@@ -35,4 +37,4 @@ Sublime Text 2 User Settings stored in "~/Library/Application Support/Sublime Te
 * Theme - Soda
 * Theme - Spacegray
 * WordHighlight
-* 
+
