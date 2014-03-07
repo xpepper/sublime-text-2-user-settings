@@ -40,3 +40,5 @@ Sublime Text 2 User Settings are stored in `~/Library/Application Support/Sublim
 * Theme - Spacegray
 * WordHighlight
 
+## Useful references
+* http://kkga.github.io/spacegray/
