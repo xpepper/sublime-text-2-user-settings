@@ -3,10 +3,10 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"ApplySyntax",
 		"BeautifyRuby",
 		"BracketHighlighter",
 		"CTags",
-		"DetectSyntax",
 		"Git",
 		"GitGutter",
 		"KeymapManager",
