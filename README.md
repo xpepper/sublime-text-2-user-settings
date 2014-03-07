@@ -18,15 +18,17 @@ Sublime Text 2 User Settings are stored in `~/Library/Application Support/Sublim
 
 ## Plugins 
 * All Autocomplete
+* ApplySyntax 
 * BeautifyRuby
 * BracketHighlighter
 * CTags
-* DetectSyntax
 * Git
 * GitGutter
 * KeymapManager
 * Markdown Preview
+* MarkdownEditing
 * Package Control
+* Pretty JSON
 * Puppet
 * RailsCasts Colour Scheme
 * RSpec
