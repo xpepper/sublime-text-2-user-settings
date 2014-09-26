@@ -1,0 +1,22 @@
+{
+	"9o.hist./Users/pierodibello/Documents/workspace/golang":
+	[
+		"help",
+		"go build",
+		"go run",
+		"go list",
+		"go build first.go",
+		"go run first.go",
+		"go env"
+	],
+	"9o.hist./Users/pierodibello/go-lang/src/github.com/VictorDenisov/go_koans":
+	[
+		"go run about_asserts.go",
+		"go build",
+		"./go_koans",
+		"./run.sh"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r13.12.26-3",
+	"version": "r13.12.26-3"
+}
