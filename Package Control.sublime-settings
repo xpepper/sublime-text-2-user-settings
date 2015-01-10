@@ -1,15 +1,24 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"ApplySyntax",
 		"BeautifyRuby",
 		"BracketHighlighter",
+		"Colorsublime",
 		"CTags",
 		"Git",
 		"GitGutter",
-		"GoSublime",
+		"Indent XML",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
@@ -19,6 +28,7 @@
 		"Ruby Markers",
 		"RVM",
 		"SideBarEnhancements",
+		"Theme - Cobalt2",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"WordHighlight"

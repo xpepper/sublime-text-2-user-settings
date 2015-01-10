@@ -1,3 +1,14 @@
 {
-  "extensions": ["ru", "Gemfile"]
+	"extensions":
+	[
+		"ru",
+		"thor",
+		"jbuilder",
+		"rake",
+		"podspec",
+		"Gemfile",
+		"rb",
+		"simplecov",
+		"rabl"
+	]
 }

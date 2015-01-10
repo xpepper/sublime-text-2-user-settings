@@ -20,12 +20,6 @@
     "args": {"overlay": "goto", "text": ":"}
   },
 
-  // redo
-  {
-    "keys": ["super+alt+z"],
-    "command": "redo"
-  },
-
   // go to symbol
   {
     "keys": ["super+y"],
@@ -69,16 +63,5 @@
     "keys": ["super+alt+]"],
     "command": "reindent",
     "args": { "single_line": false }
-  },
-  // run tests
-  {
-    "keys": ["super+r"],
-    "command": "run_tests",
-    "args": {"single": false}
-  },
-  {
-    "keys": ["super+shift+r"],
-    "command": "run_tests",
-    "args": {"single": true}
   }
 ]
