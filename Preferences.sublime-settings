@@ -17,7 +17,7 @@
     "*.zip"
   ],
   "bold_folder_labels": true,
-  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
   "ensure_newline_at_eof_on_save": true,
   "fade_fold_buttons": false,
   "file_exclude_patterns":
@@ -84,8 +84,8 @@
   ],
   "save_on_focus_lost": true,
   "tab_size": 2,
-  "theme": "Spacegray.sublime-theme",
+  "theme": "Material-Theme.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "word_wrap": true
+  "word_wrap": false
 }
