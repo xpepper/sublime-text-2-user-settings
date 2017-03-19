@@ -59,5 +59,9 @@
     "keys": ["super+alt+]"],
     "command": "reindent",
     "args": { "single_line": false }
+  },
+  {
+    "keys": ["super+shift+c"],
+    "command": "copy_path_to_clipboard"
   }
 ]
