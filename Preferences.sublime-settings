@@ -1,92 +1,106 @@
 {
-	"auto_complete_commit_on_tab": false,
-	"binary_file_patterns":
-	[
-		"*.dds",
-		"*.eot",
-		"*.gif",
-		"*.ico",
-		"*.jar",
-		"*.jpeg",
-		"*.jpg",
-		"*.pdf",
-		"*.png",
-		"*.swf",
-		"*.tga",
-		"*.ttf",
-		"*.zip"
-	],
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
-	"file_exclude_patterns":
-	[
-		".DS_Store",
-		".tags*",
-		"*.log",
-		"*.pdf",
-		"*.gem",
-		".tmtags"
-	],
-	"folder_exclude_patterns":
-	[
-		".git",
-		".svn",
-		".hg",
-		"CVS",
-		".sass-cache",
-		".bundle",
-		".rbx",
-		"tmp"
-	],
-	"font_face": "Hack",
-	"font_size": 22,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"ActionScript",
-		"AppleScript",
-		"ASP",
-		"C#",
-		"D",
-		"Erlang",
-		"Go",
-		"Graphviz",
-		"Haskell",
-		"Java",
-		"Lisp",
-		"Markdown",
-		"Matlab",
-		"Objective-C",
-		"OCaml",
-		"R",
-		"RVM",
-		"Scala",
-		"TCL",
-		"Vintage",
-		"WordHighlight"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 0.5,
-	"line_padding_top": 0.5,
-	"new_window_settings":
-	{
-		"show_minimap": false
-	},
-	"rulers":
-	[
-		130
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+  "added_words":
+  [
+    "programmatically",
+    "refactor",
+    "combinatory",
+    "followee",
+    "apps"
+  ],
+  "always_show_minimap_viewport": true,
+  "auto_complete_commit_on_tab": false,
+  "binary_file_patterns":
+  [
+    "*.dds",
+    "*.eot",
+    "*.gif",
+    "*.ico",
+    "*.jar",
+    "*.jpeg",
+    "*.jpg",
+    "*.pdf",
+    "*.png",
+    "*.swf",
+    "*.tga",
+    "*.ttf",
+    "*.zip"
+  ],
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "file_exclude_patterns":
+  [
+    ".DS_Store",
+    ".tags*",
+    "*.log",
+    "*.pdf",
+    "*.gem",
+    ".tmtags"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".svn",
+    ".hg",
+    "CVS",
+    ".sass-cache",
+    ".bundle",
+    ".rbx",
+    "tmp"
+  ],
+  "font_face": "JetBrains Mono",
+  "font_options":
+  [
+    "gray_antialias",
+    "subpixel_antialias",
+    "dlig"
+  ],
+  "font_size": 28,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "ActionScript",
+    "AppleScript",
+    "ASP",
+    "C#",
+    "D",
+    "Erlang",
+    "Graphviz",
+    "Haskell",
+    "Lisp",
+    "Markdown",
+    "Matlab",
+    "Objective-C",
+    "OCaml",
+    "R",
+    "RVM",
+    "Scala",
+    "TCL",
+    "Vintage",
+    "WordHighlight",
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "material_theme_bright_scrollbars": true,
+  "new_window_settings":
+  {
+    "show_minimap": false,
+  },
+  "overlay_scroll_bars": "enabled",
+  "rulers":
+  [
+    130
+  ],
+  "save_on_focus_lost": true,
+  "scroll_past_end": false,
+  "tab_size": 2,
+  "theme": "Material-Theme.sublime-theme",
+  "translate_tabs_to_spaces": false,
+  "trim_trailing_white_space_on_save": false,
+  "word_wrap": false,
 }
