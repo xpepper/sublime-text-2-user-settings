@@ -3,7 +3,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"RVM"
+		"RVM",
 	],
 	"installed_packages":
 	[
@@ -18,7 +18,9 @@
 		"Git",
 		"GitGutter",
 		"Indent XML",
-		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Color Scheme",
 		"Material Theme",
 		"nginx",
 		"Package Control",
@@ -30,6 +32,6 @@
 		"Theme - Cobalt2",
 		"Theme - Soda",
 		"Theme - Spacegray",
-		"WordHighlight"
-	]
+		"WordHighlight",
+	],
 }
